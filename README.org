@@ -1,0 +1,5 @@
+#+TITLE: ~MORE-CLOCK~
+
+* Intro
+
+  This is a more complex than ~basic_clock~ application of ~Qt~.
