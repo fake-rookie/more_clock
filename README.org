@@ -3,3 +3,7 @@
 * Intro
 
   This is a more complex than ~basic_clock~ application of ~Qt~.
+
+* Screenshot
+
+  [[https://raw.githubusercontent.com/fake-rookie/more_clock/master/screen.png]]
